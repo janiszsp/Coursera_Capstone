@@ -1,0 +1,19 @@
+ 1) Introduction/Business Problem
+ We will be finding areas of New York City that are 'untapped' in potential meaning they can be further developed at the most economically efficient rates.
+ 
+ 2) Downloading and Prepping Data
+ Neighborhood has a total of 5 boroughs and 306 neighborhoods. In order to segement the neighborhoods and explore them, we will essentially need a dataset that contains the 5 boroughs and the neighborhoods that exist in each borough as well as the the latitude and logitude coordinates of each neighborhood.
+
+Link to the dataset: https://geo.nyu.edu/catalog/nyu_2451_34572
+
+3) Methodology
+For this report I used a few different maps that could help a new investor to decide the best neighborhood. In order to do that I've used the aboveinformation combined with choropleth maps to visually display the wealthier and more populational neighborhoods and Foursquare data to display the current restaurants in each region.
+
+4) Results
+There are three neighborhoods in Staten Island that are the most economically efficient to be developed, Todd Hill, Port Ivey, and Bloomfield.
+
+5) Discussion
+When I first decided to create this study I was expecting to find more areas of Brooklyn since it is becoming a hot spot in the last 15 years.
+
+6) Conclusion
+This report may be helpful for someone planning on opening a business in NYC, by comparing the current offers and neighborhoods profiles, however it may not cover all variables such as access to public transportation or even the restaurants profiles, so it shall not be used as a single decidion making tool.
